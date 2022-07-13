@@ -1,0 +1,2 @@
+rootProject.name = "POCFirma"
+include ':app'
